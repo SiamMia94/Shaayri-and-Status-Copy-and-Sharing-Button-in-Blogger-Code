@@ -3,7 +3,7 @@ Shaayri, Quotes, Jokes, Status and Kobita Copy and Sharing Button in Blogger Blo
 
 ## 📸 Screenshots
 
-<img width="1470" alt="Screenshotv" src="">
+<img width="1470" alt="Screenshot 2025 07 02 .jpg" src="https://github.com/SiamMia94/Shaayri-and-Status-Copy-and-Sharing-Button-in-Blogger-Code/blob/f365a206750bdfdf57d68b5a1e01f2a4b5fd4c9f/Screenshot_20250702_010542.jpg">
 
 - This is the Demo Shaayri and Status Copy and Sharing Button in Blogger
 
