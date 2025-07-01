@@ -1,6 +1,10 @@
 # 🌐 Shaayri-and-Status-Copy-and-Sharing-button-Blogger-Code
 Shaayri, Quotes, Jokes, Status and Kobita Copy and Sharing Button in Blogger Blogspot
 
+
+You Need This Code Then send Message - [SiaM Mia](https://facebook.com/siam.mia.94/)
+
+ 
 ## 📸 Screenshots
 <img width="270" alt="Screenshot 2025 07 02 .jpg" src="https://github.com/SiamMia94/Shaayri-and-Status-Copy-and-Sharing-Button-in-Blogger-Code/blob/2df710c86c9478ecc3654c2cbe3888d23fc6e2e0/Screenshot_20250702_010557.jpg">
 
