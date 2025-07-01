@@ -2,7 +2,7 @@
 Shaayri, Quotes, Jokes, Status and Kobita Copy and Sharing Button in Blogger Blogspot
 
 
-You Need This Code Then send Message - [SiaM Mia](https://facebook.com/siam.mia.94/)
+You Need This WordPress Plugin also Blogger Blogspot Code and Setup This Code in Your Website Then send a Message - [SiaM Mia](https://facebook.com/siam.mia.94/)
 
  
 ## 📸 Screenshots
